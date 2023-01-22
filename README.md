@@ -5,6 +5,11 @@
 # Fullyz.xyz Community & Support
 ## https://discord.gg/uWGbkpc3fU
 
+# Fullyz.xyz Main Loader:
+```lua
+
+```
+
 # Changelog [22.01.2023]
 
 [+] Added Jailbreak
