@@ -1,2 +1,6 @@
 # Fullyz.xyz
-in development this will be a mobile script hub
+
+
+#Changelog [22.01.2023]
+[+] Added Jailbreak
+[+] Added Da Hood
