@@ -3,10 +3,10 @@
 
 
 # Fullyz.xyz Community & Support
-## > https://discord.gg/uWGbkpc3fU
+> ## https://discord.gg/uWGbkpc3fU
 
 # Fullyz.xyz Main Loader:
-> ```lua
+```lua
 
 ```
 
