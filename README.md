@@ -10,6 +10,11 @@
 
 ```
 
+# Supported Executors:
+## Hydrogen, Fluxus Mobile 
+
+If there are any other mobile executors which can run Fullyz.xyz then please let me know!
+
 # Changelog [22.01.2023]
 
 [+] Added Jailbreak
