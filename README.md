@@ -3,7 +3,7 @@
 
 
 # Fullyz.xyz Community & Support
-> ## https://discord.gg/uWGbkpc3fU
+## https://discord.gg/uWGbkpc3fU
 
 # Fullyz.xyz Main Loader:
 ```lua
@@ -17,6 +17,6 @@ If there are any other mobile executors which can run Fullyz.xyz then please let
 
 # Changelog [22.01.2023]
 
-[+] Added Jailbreak
+>[+] Added Jailbreak
 
-[+] Added Da Hood
+>[+] Added Da Hood
