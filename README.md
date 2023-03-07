@@ -3,7 +3,7 @@
 
 
 # Fullyz.xyz Community & Support
-## https://discord.gg/uWGbkpc3fU
+## https://discord.gg/ABP6aXf5PZ
 
 # Fullyz.xyz Main Loader:
 ```lua
