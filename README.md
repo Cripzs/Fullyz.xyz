@@ -12,13 +12,23 @@ Whether you're a seasoned Roblox player or just starting out, Fullyz.xyz is an e
 
 # Fullyz.xyz Main Loader:
 ```lua
-
+print("Not released yet.")
 ```
 
 # Supported Executors:
-## Hydrogen, Fluxus Mobile 
+## [Windows Devices]
+• Synapse X 
+• Script-Ware
+• WeAreDevs / Fluxus API's
 
-If there are any other mobile executors which can run Fullyz.xyz then please let me know!
+## [Android Devices]
+• Fluxus
+• Hydrogen
+
+## [MacOs / IoS Devices]
+• Script-Ware (Mac Version)
+• Hydrogen
+
 
 # Changelog [22.01.2023]
 
