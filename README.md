@@ -1,6 +1,6 @@
 #  What is Fullyz.xyz?
 
- ## Fullyz.xyz is a powerful Roblox script that is designed to work seamlessly across multiple games on both PC and mobile platforms. This remastered version of the popular Crips Gaming Chair script offers players a variety of features and functionalities that can enhance their gaming experience on Roblox.
+Fullyz.xyz is a powerful Roblox script that is designed to work seamlessly across multiple games on both PC and mobile platforms. This remastered version of Crips Gaming Chair script offers players a variety of features and functionalities that can enhance their gaming experience on Roblox.
 
 With Fullyz.xyz, players can enjoy a having advantages against other players. The script is constantly updated and improved to ensure that it remains effective and up-to-date with the latest Roblox games and updates.
 
