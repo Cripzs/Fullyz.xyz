@@ -18,15 +18,19 @@ print("Not released yet.")
 # Supported Executors:
 ## [Windows Devices]
 • Synapse X 
+
 • Script-Ware
+
 • WeAreDevs / Fluxus API's
 
 ## [Android Devices]
 • Fluxus
+
 • Hydrogen
 
 ## [MacOs / IoS Devices]
 • Script-Ware (Mac Version)
+
 • Hydrogen
 
 
