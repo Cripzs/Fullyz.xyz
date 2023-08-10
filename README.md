@@ -12,7 +12,7 @@ Whether you're a seasoned Roblox player or just starting out, Fullyz.xyz is an e
 
 # Fullyz.xyz Main Loader:
 ```lua
-print("Not released yet.")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cripzs/Fullyz.xyz/main/MainLoader.lua"))()
 ```
 
 # Supported Executors:
