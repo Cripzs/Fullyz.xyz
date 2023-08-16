@@ -91,7 +91,7 @@ function Library.DestroyUI()
 end
 function Library.Render(settings)
     settings = settings or {}
-    local Title = settings.Title or "Fullyz.xyz"
+    local Title = settings.Title or "Fullyz.xyz - https://discord.gg/ABP6aXf5PZ"
     local SavePosition = settings.SavePosition or false 
     local Options = settings.Options or {}
  
@@ -154,7 +154,7 @@ local Shadow_3 = Instance.new("ImageLabel")
         uiName.Size = UDim2.new(1, 0, 0, 15)
         uiName.Font = Enum.Font.GothamMedium
         uiName.RichText = true
-        uiName.Text = "<font color=\"rgb(129, 145, 255)\">Fullyz.xyz</font>"
+        uiName.Text = "<font color=\"rgb(129, 145, 255)\">Fullyz.xyz - https://discord.gg/ABP6aXf5PZ</font>"
         uiName.TextColor3 = Color3.fromRGB(235, 235, 235)
         uiName.TextSize = 13.000
 
