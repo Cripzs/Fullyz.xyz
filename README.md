@@ -18,6 +18,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Cripzs/Fullyz.xyz/mai
 # Fullyz.xyz Fix 
 
 If you have issues with executing Fullyz.xyz run this first.
+
+⚠️ This will delete any config and data files.
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Cripzs/Fullyz.xyz/main/Fix.lua"))()
 ```
