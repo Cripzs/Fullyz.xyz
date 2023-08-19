@@ -9,6 +9,7 @@ Whether you're a seasoned Roblox player or just starting out, Fullyz.xyz is an e
 
 # Fullyz.xyz Community & Support
 ## https://discord.gg/ABP6aXf5PZ
+## Wiki - https://github.com/Cripzs/Fullyz.xyz/wiki
 
 # Fullyz.xyz Main Loader:
 ```lua
