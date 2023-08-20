@@ -1,49 +1,57 @@
-# UI Documentation
+# UI Library Integration Guide
 
-## "Fetch" the Fullyz.xyz library
+This guide provides step-by-step instructions for integrating the Fullyz.xyz UI library into your Lua project. The library simplifies the creation of user interfaces for your applications. Follow these steps to effectively use the UI elements provided by the library.
+
+## Step 1: Fetch the Fullyz.xyz Library
+To begin, load the Fullyz.xyz UI library using the following code snippet. This will allow you to access the library's functionalities.
+
 ```lua
 local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Cripzs/Fullyz.xyz/main/UI%20Library.lua'))()
 ```
 
-## Creating the Window
+## Step 2: Creating Windows, Tabs, and Sections
+
 ```lua
 local Box = Library.Render({
     SavePosition = true;
 })
-```
 
-## Creating a Section
-```lua
+local Example = Box:Tab({
+    Title = 'Home';
+})
+
 local Section = Example:Section({
     Title = 'Section'
 })
 ```
 
-## Creating a dropdown
+## Step 3: Adding UI Elements
+
+### Dropdown
 ```lua
 local Dropdown = Section:Dropdown({
     Title = "Dropdown #1",
     List = {"One","Two","Three"},
-    Callback = function(v)
-        warn(v)
+    Callback = function(selectedValue)
+        warn(selectedValue)
     end
 })
 ```
 
-## Creating a datalist ~Multi dropdown
+### Datalist (Multi Dropdown)
 ```lua
 local Datalist = Section:Datalist({
     Title = 'Datalist #1',
     Items = {'1','2','3','4'},
-    Callback = function(values)
-        for i,v in pairs(values) do
-            print(v)
+    Callback = function(selectedValues)
+        for _, value in pairs(selectedValues) do
+            print(value)
         end
     end
 })
-``` 
+```
 
-## Creating a button
+### Button
 ```lua
 Section:Button({
     Title = "Refresh",
@@ -55,53 +63,56 @@ Section:Button({
 })
 ```
 
-## Creating a toggle
+### Toggle
 ```lua
 Section:Toggle({
     Title = "Toggle",
-    Callback = function(v)
-        warn(v)
+    Callback = function(isToggled)
+        warn(isToggled)
     end
 })
 ```
 
-## Creating a slider
+### Slider
 ```lua
 Section:Slider({
-    Title = "asd",
+    Title = "Slider",
     Min = 0,
     Max = 500,
     Default = 250,
-    Callback = function(v)
-        warn(v)
+    Callback = function(sliderValue)
+        warn(sliderValue)
     end
 })
 ```
 
-## Creating a label
+### Label
 ```lua
 Section:Label({
-    Title = "asd",
+    Title = "Label Text",
 })
 ```
 
-## Creating a Text Field
+### Text Field
 ```lua
 Section:TextField({
     Title = "Text",
-    Placeholder = "Holder",
-    Callback = function(v)
+    Placeholder = "Enter text...",
+    Callback = function(inputText)
+        -- Process the inputText
     end
 })
 ```
 
-## Creating a Keybind
+### Keybind
 ```lua
 Section:Keybind({
-    Title = "asd",
+    Title = "Keybind",
     Key = Enum.KeyCode.F,
-    Callback = function(v)
-
+    Callback = function(isPressed)
+        -- Handle keybind activation
     end
 })
 ```
+
+With these steps and examples, you can effectively utilize the Fullyz.xyz UI library to create interactive and user-friendly interfaces for your Lua applications.
