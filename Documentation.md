@@ -2,6 +2,8 @@
 
 This guide provides step-by-step instructions for integrating the Fullyz.xyz UI library into your Lua project. The library simplifies the creation of user interfaces for your applications. Follow these steps to effectively use the UI elements provided by the library.
 
+### ⚠️ This library UI should not be used for personal use! ⚠️
+
 ## Step 1: Fetch the Fullyz.xyz Library
 To begin, load the Fullyz.xyz UI library using the following code snippet. This will allow you to access the library's functionalities.
 
