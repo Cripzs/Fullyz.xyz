@@ -28,6 +28,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Cripzs/Fullyz.xyz/mai
 
 # Supported Executors:
 ## [Windows Devices]
+
+## ⚠️ This list is not uptodate !
 • Synapse X 
 
 • Script-Ware
