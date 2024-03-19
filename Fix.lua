@@ -1,8 +1,6 @@
-local FullyzFolder = "Fullyz.xyz"
+local Fullyz = "Fullyz.xyz"
 
-if isfolder(FullyzFolder) then
-    delfolder(FullyzFolder)
-    print('Deleted folder called "Fullyz.xyz".')
-else
-    print('Folder called "Fullyz.xyz" not found')
+if isfolder(Fullyz) then
+    delfolder(Fullyz)
+    print('Deleted all Fullyz.xyz files..')
 end
