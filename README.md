@@ -1,6 +1,5 @@
 # Fullyz.xyz Community & Support
-## https://discord.gg/ABP6aXf5PZ
-## Wiki - https://github.com/Cripzs/Fullyz.xyz/wiki
+## Support & Community: https://discord.gg/ABP6aXf5PZ
 
 # Fullyz.xyz Main Loader:
 ```lua
@@ -18,28 +17,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Cripzs/Fullyz.xyz/mai
 
 
 # Supported Executors:
-## [Windows Devices]
+## [Windows Executors]
+* None
 
-## ⚠️ This list is not uptodate !
-• Synapse X 
-
-• Script-Ware
-
-• WeAreDevs / Fluxus API's
-
-## [Android Devices]
-• Fluxus
-
-• Hydrogen
-
-## [MacOs / IoS Devices]
-• Script-Ware (Mac Version)
-
-• Hydrogen
+## [Mobile Executors]
+* None
 
 
-# Changelog [22.01.2023]
-
->[+] Added Jailbreak
-
->[+] Added Da Hood
+## [MacOs / IoS Executors]
+* None
