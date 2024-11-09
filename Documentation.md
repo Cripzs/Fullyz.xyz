@@ -1,7 +1,6 @@
 # UI Library Integration Guide
 
 ## Step 1: Fetch the Fullyz.xyz Library
-To begin, load the Fullyz.xyz UI library using the following code snippet. This will allow you to access the library's functionalities.
 
 ```lua
 local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Cripzs/Fullyz.xyz/main/UI%20Library.lua'))()
@@ -113,4 +112,3 @@ Section:Keybind({
 })
 ```
 
-With these steps and examples, you can effectively utilize the Fullyz.xyz UI library to create interactive and user-friendly interfaces for your Lua applications.
