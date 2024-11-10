@@ -7,11 +7,11 @@ local one, two, three = loadstring, request or http_request or (http and http.re
 ```
 
 ## Supported Executors:
-### [Windows Executors]
+### Windows Executors
 * Wave
 * Seliware
 
-### [Mobile Executors]
+### Mobile Executors
 * Fluxus
 * Delta
 * Codex
