@@ -1,0 +1,22 @@
+local ExecutorsFingerprints = {
+    "Syn-Fingerprint",
+    "Exploit-Guid",
+    "Krnl-Hwid",
+    "Sw-Fingerprint",
+    "Wave-Fingerprint",
+    "Seliware-Fingerprint",
+    "Delta-Fingerprint",
+    "Codex-Fingerprint",
+    "SynapseZ-Fingerprint",
+    "Solara-Fingerprint",
+    "Xeno-Fingerprint",
+    "Nihon-Fingerprint",
+    "AppleWare-Fingerprint",
+    "JJSploit-Fingerprint",
+    "Zorara-Fingerprint",
+    "Macsploit-Fingerprint",
+    "VegaX-Fingerprint",
+    "Cryptic-Fingerprint",
+    "ArceusX-Fingerprint",
+    "Mint-Fingerprint"
+}
