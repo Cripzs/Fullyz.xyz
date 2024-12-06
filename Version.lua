@@ -1,5 +1,4 @@
-local SVAL = {
-    version = "3.6.0a",  
+local SVAL_Version = {
+    version = "3.6.0a",
 }
 
-return Fullyz
