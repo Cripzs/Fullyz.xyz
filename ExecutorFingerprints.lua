@@ -18,5 +18,6 @@ local ExecutorsFingerprints = {
     "VegaX-Fingerprint",
     "Cryptic-Fingerprint",
     "ArceusX-Fingerprint",
-    "Mint-Fingerprint"
+    "Mint-Fingerprint",
+    "Awp-Fingerprint"
 }
