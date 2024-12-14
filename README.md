@@ -3,7 +3,7 @@
 
 ## Fullyz.xyz Main Loader:
 ```lua
-local join, our, discord = loadstring, request or http_request or (http and http.request)local loaderUrl = "https://raw.githubusercontent.com/Cripzs/Fullyz.xyz/main/MainLoader.lua"discord(join and our, "[Fullyz.xyz] No Http Requests? Please use a different executor!")local server = our({Url = loaderUrl,  Headers = {["User-Agent"] = "Fullyz.xyz"}}) join(server.Body)()
+local loader;
 ```
 
 ## Supported Executors:
